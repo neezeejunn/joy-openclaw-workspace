@@ -1,22 +1,19 @@
 # YouTube Fallback Policy
 
 ## Principle
-Prefer a partial but honest comparison over a fake full comparison.
+For this workflow, transcript is mandatory.
+An incomplete but honest failure is better than a fake comparison.
 
-## Fallback Levels
+## Allowed Outcomes
 ### Full comparison
-Allowed only when quality gates pass.
+Allowed only when a same-day transcript is available and quality gates pass.
 
-### Partial comparison
-Allowed when some meaningful content is available, but not enough for all five dimensions.
-The report must state which dimensions are weak or unavailable.
-
-### Shallow comparison
-Used when only title-level or very sparse information is available.
-This should never be presented as a serious evaluation of the video's analysis.
+### Failure
+If transcript is missing, the YouTube comparison step fails.
+No description-only or title-only fallback is allowed for formal comparison.
 
 ## Reporting Rule
-Always label the comparison depth clearly:
-- full
-- partial
-- shallow
+Always label the result clearly:
+- full_comparison
+- transcript_unavailable
+- no_formal_youtube_comparison
