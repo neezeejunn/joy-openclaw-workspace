@@ -67,6 +67,7 @@ Target channel:
 Rule:
 - compare only after independent analysis is complete
 - use same-day content only for formal comparison reports
+- transcript is mandatory; if transcript is unavailable, the YouTube comparison step fails
 
 Questions to answer:
 - Where do we agree?
@@ -79,5 +80,5 @@ Questions to answer:
 3. Sector ranking
 4. Stock ranking
 5. Technical/fundamental notes
-6. Channel comparison
+6. Channel comparison (only if transcript-validated)
 7. Confidence and caveats

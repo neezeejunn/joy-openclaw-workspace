@@ -16,7 +16,8 @@
 - 1 or more company / stock / sector deep-dive articles from available sources
 
 ## Read Fifth
-- Same-day rhinofinance / 视野环球财经 content if available and date-valid
+- Same-day rhinofinance / 视野环球财经 video transcript if available and date-valid
+- If transcript is unavailable, record failure and skip formal YouTube comparison
 
 ## Extract
 - Macro driver
@@ -25,4 +26,4 @@
 - Fundamental support
 - Technical watchpoints
 - Risks
-- Comparison points
+- Comparison points (only with transcript support)
