@@ -6,18 +6,21 @@ Independent analysis comes first.
 
 ## Workflow
 1. Finish independent market view
-2. Read/watch same-day channel content
+2. Obtain and read actual same-day video content
 3. Extract the channel's main claims
-4. Compare overlap and divergence
+4. Compare overlap and divergence using the five dimensions
 5. Judge which view is better supported by data and logic
 
-## Comparison Dimensions
-- Market regime
-- Macro interpretation
-- Sector preference
-- Stock selection
-- Time horizon
-- Risk framing
+## Required Five Dimensions
+- Market environment
+- Industry / sector view
+- Market data / event calendar
+- Stock fundamentals
+- Stock technicals
+
+## Minimum Content Rule
+Do not rely on title alone for a formal comparison.
+If only the title is available, the comparison is provisional only.
 
 ## Output Sections
 - Agreements

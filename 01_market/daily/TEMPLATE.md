@@ -43,9 +43,27 @@
   - Watchpoints / invalidation:
 
 ## 7. Comparison vs 视野环球财经
-- Same-day video found?:
-- Points of agreement:
-- Points of disagreement:
+### A. Market environment
+- Agreements:
+- Disagreements:
+
+### B. Industry / sector view
+- Agreements:
+- Disagreements:
+
+### C. Market data / event calendar
+- Agreements:
+- Disagreements:
+
+### D. Stock fundamentals
+- Agreements:
+- Disagreements:
+
+### E. Stock technicals
+- Agreements:
+- Disagreements:
+
+- Quality of video-content understanding: transcript / detailed description / rich extraction / title-only
 - My judgment after comparison:
 
 ## 8. Bottom Line
