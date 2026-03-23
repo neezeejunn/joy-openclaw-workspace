@@ -11,6 +11,7 @@ Requirements:
 Requirements:
 - market/news analysis available
 - no valid transcript-backed YouTube comparison
+- report explicitly marked: no_formal_youtube_comparison
 
 ## Type 3: No Report
 Use when:

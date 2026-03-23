@@ -36,13 +36,20 @@ Reason:
 Do not auto-deliver every run.
 Instead:
 - internal runs should use delivery none
-- only the report-generation step should create a user-facing deliverable when it actually succeeds
+- only successful report-generation should produce user-facing output
+- preferred user-facing output: concise Telegram summary + full report saved to workspace/repo
 
 ## Output Recommendation
-If the full formal comparison conditions are met:
+### If formal comparison conditions are met
 - generate a daily report file under 01_market/daily/YYYY-MM-DD.md
-- optionally deliver a concise summary to the user channel
+- send a concise Telegram summary
 
-If not met:
+### If transcript is unavailable but independent analysis is still strong
+- generate an independent market report
+- mark it no_formal_youtube_comparison
+- save the report file
+- optionally send a concise Telegram summary
+
+### If not enough data
 - update state only
 - do not produce noisy user-facing output
