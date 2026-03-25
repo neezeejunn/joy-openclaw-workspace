@@ -1,0 +1,16 @@
+{
+  "marketDay": "YYYY-MM-DD",
+  "monitoringStarted": false,
+  "monitoringCompleted": false,
+  "sameDayVideoFound": false,
+  "sameDayVideoUrl": "",
+  "sameDayVideoPublishTime": "",
+  "transcriptAvailable": false,
+  "transcriptStatus": "unknown",
+  "sameDayValidationPassed": false,
+  "reportGenerated": false,
+  "reportPath": "",
+  "summarySent": false,
+  "summaryMessageId": "",
+  "stopReason": ""
+}
